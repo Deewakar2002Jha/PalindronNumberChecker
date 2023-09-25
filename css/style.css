@@ -1,0 +1,6 @@
+.question{
+    color: red;
+    font-size: 2rem;
+    margin: 10px auto;
+    border: 1px dashed blue;
+}
